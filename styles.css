@@ -79,6 +79,7 @@ header h1 {
     display: flex;
     align-items: center;
     margin-left: auto;
+    font-size: 30px;
 }
 
 .post .post-header img {
